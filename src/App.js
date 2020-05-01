@@ -12,9 +12,9 @@ const App = () => {
     <div>
       <h1>Adopt Me!</h1>
       <SearchParams />
-      {/* <Pet name="Luna" animal="Dog" breed="Havannesse" />
+      <Pet name="Luna" animal="Dog" breed="Havannesse" />
       <Pet name="Peppe" animal="Bird" breed="Cockatail" />
-      <Pet name="Doink" animal="Cat" breed="Stray" /> */}
+      <Pet name="Doink" animal="Cat" breed="Stray" />
     </div>
   );
 };
